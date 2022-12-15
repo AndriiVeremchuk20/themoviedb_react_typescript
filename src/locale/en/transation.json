@@ -1,0 +1,53 @@
+{
+  "translation": {
+    "search": "Search",
+    "login": "Login",
+    "register": "Registration",
+    "homepage": "Homepage",
+
+    "cardButton": "Add To Favorites",
+    "cardAlert": "To adding movie to view list please ",
+    "card_movie_addet_message": "Movie Addet ",
+    "vote": "Vote",
+    "release_date": "Original language",
+    "original_language": "Original language",
+    "budget": "Budget",
+    "revenue": "Revenue",
+    "runtime": "Runtime",
+    "runtime_time": "m",
+
+    "errorPending": "Loading error movie list!",
+    "nothing_found_for": "Nothing found for",
+
+    "password": "Password",
+    "reset": "Reset",
+
+    "name": "Name",
+    "surname": "Surname",
+    "phone": "Phone ",
+    "email": "Email",
+    "repeat_password": "Repeat password",
+
+    "18+": "18+ content possible",
+    "video_not_found": "Video not found",
+    "recomendations_not_found": "Recomendations not found",
+    "loading": "Wait",
+    "recomendations": "Recomendations",
+
+    "404": "Maybe the page you are looking for has been removed, or you typed in the wrong URL",
+    "go_to_homepage": "Go To Homepage",
+
+    "films_for_you": "Films for you",
+    "follow_us": "Follow us",
+    "call_us": "Call us",
+
+    "up": "Up",
+
+    "profile": "Profile",
+    "logout": "Logout",
+    "delete_account": "Delete Account",
+
+    "see_later": "See later",
+    "detete": "Delete"
+  }
+}

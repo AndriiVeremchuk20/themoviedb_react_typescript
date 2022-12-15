@@ -1,0 +1,54 @@
+{
+  "translation": {
+    "search": "Пошук",
+    "login": "Вхід",
+    "register": "Реєстрація",
+    "homepage": "На головну",
+
+    "cardButton": "Додати до списку переглядів",
+    "cardAlert": "Для додання фільму то списку переглядів будьласка ",
+    "card_movie_addet_message": "Додано ",
+    "vote": "Оцінка",
+    "release_date": "Дата виходу",
+    "original_language": "Оригінальна мова",
+    "budget": "Бюджет",
+    "revenue": "Прибуток",
+    "runtime": "Тривалість",
+    "runtime_time": "хв.",
+
+    "errorPending": "Дідько щось знову зламалося!",
+    "nothing_found_for": "Нічого не знайдено для",
+
+    "password": "Пароль",
+    "reset": "Збросити",
+
+    "name": "Ім'я",
+    "surname": "Призвище",
+    "phone": "Номер телефону ",
+    "email": "Електронна почта",
+    "repeat_password": "Повторіть пароль",
+
+    "18+": "18+ content possible",
+    "video_not_found": "Відео не знайдено",
+    "recomendations_not_found": "Рекомендації не знайдено",
+    "loading": "Зачекайте",
+    "recomendations": "Рекомендації",
+
+    "404": "Можливо, сторінку, яку ви шукаєте, було видалено, або ви ввели неправильну URL-адресу",
+    "go_to_homepage": "На домашню сторінку",
+
+    "films_for_you": "Фільм для вас",
+    "follow_us": "Ми у соц мережах",
+    "call_us": "Зателефонуйте нам",
+
+    "up": "Вгору",
+
+    "profile": "Профіль",
+    "logout": "Вийти",
+    "delete_account": "Видалити аккаунт",
+
+    "see_later": "Дивитися пізніше",
+    "delete": "Видалити"
+
+  }
+}
